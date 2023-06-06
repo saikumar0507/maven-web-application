@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>freestyle-1-release</name>
-	      <url>http://52.43.192.120:8081/repository/freestyle-1-release/</url>
+	      <name>freestyle-release</name>
+	      <url>http://54.163.40.203:8081/repository/freestyle-release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>freestyle-1-snapshot</name>
-	      <url>http://52.43.192.120:8081/repository/freestyle-1-snapshot/</url>
+	      <name>freestyle-snapshot</name>
+	      <url>http://54.163.40.203:8081/repository/freestyle-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
